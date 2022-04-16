@@ -1,0 +1,31 @@
+{
+  "name": "badge",
+  "version": "0.0.7",
+  "description": "A reusable badge component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prnbbora4-org/badge.git"
+  },
+  "keywords": [
+    "badge",
+    "component",
+    "badge",
+    "badge",
+    "typescript",
+    "reusable",
+    "badge",
+    "chips",
+    "chips",
+    "typescript"
+  ],
+  "author": "prnbbora4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prnbbora4-org/badge/issues"
+  },
+  "homepage": "https://github.com/prnbbora4-org/badge#readme"
+}
