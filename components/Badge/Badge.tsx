@@ -17,13 +17,13 @@ const BadgeComponent = (props : BadgeComponentProps & FunctionProps) => {
     
   return (
     <BadgeDiv
-    tabIndex={0}
-    role='button'
-    onClick={onClick}
-    backgroundColor={backgroundColor}
-    textColor={textColor}
-    radius={radius}
-    label={label}
+      tabIndex={0}
+      role='button'
+      onClick={onClick}
+      backgroundColor={backgroundColor}
+      textColor={textColor}
+      radius={radius}
+      label={label}
     >
         {label}
     </BadgeDiv>
