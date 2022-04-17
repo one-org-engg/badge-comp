@@ -44,4 +44,4 @@ const BadgeDiv = styled.div <BadgeComponentProps>`
     cursor: pointer;
 `;
 
-export const Badge=BadgeComponent
+export const Badge = BadgeComponent;

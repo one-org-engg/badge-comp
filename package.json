@@ -1,6 +1,6 @@
 {
-  "name": "prnbbora4_org-badge",
-  "version": "0.0.7",
+  "name": "@prnbbora4_org/badge",
+  "version": "0.0.8",
   "type": "module",
   "description": "A reusable badge component",
   "main": "index.js",
