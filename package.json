@@ -26,9 +26,9 @@
   "author": "prnbbora4",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prnbbora4-org/badge/issues"
+    "url": "https://github.com/prnbbora4-org/badge-comp/issues"
   },
-  "homepage": "https://github.com/prnbbora4-org/badge#readme",
+  "homepage": "https://github.com/prnbbora4-org/badge-comp#readme",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1"
